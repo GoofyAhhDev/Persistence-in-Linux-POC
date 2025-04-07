@@ -1,5 +1,8 @@
 # Persistence in Linux POC
 
+## DISCLAIMER
+_Disclaimer: This script is provided for educational purposes only. Please use it responsibly and only on systems for which you have proper authorization or permission, preferably permission obtained through a signed contract. The author (GoofyAhhDev) accepts no responsibility for any misuse or damage caused by this tool._
+
 ## Overview
 This project demonstrates the use of different persistence techniques on Linux systems. The techniques showcased allow an attacker to maintain access to a system even after reboots, logins, or other interruptions. This proof-of-concept (POC) focuses on several MITRE Att&&CK methods of persistence.
 ## Features
