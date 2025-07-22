@@ -13,6 +13,7 @@ This project demonstrates the use of different persistence techniques on Linux s
 
 ## Requirements
 - **Operating System**: Ubuntu 22.04 (or any similar Linux distribution)
+- ****Root level access to the system (half of these persistence methods can be done without but require code rewrites)**
 - **Dependencies**:
   - NGINX (optional, if you plan to serve the PHP files for reverse shell)
   - PHP (optional, if you're using PHP-based reverse shell exploits)
